@@ -33,7 +33,7 @@ function iLoveTheBeatles(number) {
   
   do {
     
-  } while (number < number.length)
+  } while (number < number.length);
 }
 
 
