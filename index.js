@@ -32,7 +32,7 @@ function iLoveTheBeatles(number) {
   var results = [];
   
   do {
-    
+    number.push(number)
   } while (number < number.length);
 }
 
