@@ -22,8 +22,7 @@ function johnLennonFacts(facts) {
     editedFacts.push(i + "!!!");
   }
   
-  return editedFacts
-  
+  return editedFacts;
 }
 
 
