@@ -32,7 +32,7 @@ function iLoveTheBeatles(number) {
   var results = [];
   
   do {
-    number.push(number)
+    results.push("I love the Beatles!")
   } while (number < number.length);
 }
 
