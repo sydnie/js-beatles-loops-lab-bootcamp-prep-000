@@ -27,7 +27,12 @@ function johnLennonFacts(facts) {
   return editedFacts;
 }
 
+function iLoveTheBeatles(number) {
 
+  var results = [];
+  
+  do 
+}
 
 
 
