@@ -18,10 +18,10 @@ const facts = [
 
 function johnLennonFacts(facts) {
   
-  var editedFacts = []
+  var editedFacts = [];
   
   for (var i = 0; i < facts.length; i++) {
-    editedFacts.push(i + "!!!");
+    editedFacts.push(facts[i] + "!!!");
   }
   
   return editedFacts;
